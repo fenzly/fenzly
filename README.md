@@ -2,14 +2,14 @@
 
 Im new to handling social media always been a outsider and im learning!
 
-___________________________ ! ___________________________
-                            |
-## Skills.                  |
-- Problem Solving           |
-- Can work under pressure   |
-- Motivated                 |
-- to be continued..         |
-                            |
+____________________________ ___________________________
+                            
+## Skills.                  
+- Problem Solving           
+- Can work under pressure   
+- Motivated                 
+- to be continued..         
+                            
 ____________________________ ___________________________
 
 ## Fun Facts
@@ -19,8 +19,8 @@ ____________________________ ___________________________
 ____________________________ ___________________________
 
 ## Let's Connect not As of Right Now 
-- 🔗 [Portfolio] -- potentially soon.
-- 🐦 [Twitter](https://twitter.com/)
+- 🔗 [Portfolio]() -- potentially soon.
+- 🐦 [Twitter]() 
 
 ________________________________________________________
 <!--

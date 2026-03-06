@@ -1,4 +1,12 @@
-# Howdy 🤠👋
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=Howdy+%F0%9F%A4%A0;Cyber+Security+Learner;Self-Taught+%26+Figuring+It+Out;One+Step+at+a+Time)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 I'm new to handling social media — always been an outsider, never been one to be as public as I am now. This is a journey and I'm here for it, step-by-step.
 
@@ -12,6 +20,16 @@ I like to learn as I go and figure things out myself, not wanting to rely on oth
 - Works well under pressure
 - Self-motivated & driven
 - *(to be continued...)*
+
+---
+
+## Tools & Languages
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58A6FF)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=58A6FF)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58A6FF)
 
 ---
 
@@ -34,9 +52,19 @@ Still mapping the route — but that's half the fun.
 
 ---
 
-## 🔗 Let's Connect *(coming soon)*
+## Stats
 
-- 🌐 Portfolio — *potentially soon*
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenzly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e)
+
+</div>
+
+---
+
+## Let's Connect *(soon. maybe)*
+
+- 🌐 Portfolio — *not yet*
 - 🐦 Twitter — *same thing*
 
 ---

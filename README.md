@@ -1,42 +1,42 @@
-## Howdy 🤠👋
+# Howdy 🤠👋
 
-Im new to handling social media always been a outsider never been one to be as public as i am now. this is a journey and im here for it, step-by-step.
+I'm new to handling social media — always been an outsider, never been one to be as public as I am now. This is a journey and I'm here for it, step-by-step.
 
-I like to learn as i go and figure things out myself not wanting to rely on other people or production to do daily Cyber Security tasks! and always willing to learn something new or do something thats out of my comfort zone.
+I like to learn as I go and figure things out myself, not wanting to rely on other people or production to do daily **Cyber Security** tasks. Always willing to learn something new or do something that's out of my comfort zone.
 
-____________________________ ___________________________
-                            
-## Skills.                  
-- Problem Solving           
-- Can work under pressure   
-- Motivated                 
-- to be continued..         
+---
 
-____________________________ ___________________________
+## Skills.
+
+- Problem Solving
+- Works well under pressure
+- Self-motivated & driven
+- *(to be continued...)*
+
+---
 
 ## Fun Facts!
-- Currently learning; cryptographys and advanced car                            engineering
-  
-- Goals: 1. Move on from learning basic cryptographys to              advance.                                               2. Deside if im wanting to go straight in with               studying cybersec rather than engineering or              start at IoT Devices and understanding the                programming from there.
 
-____________________________ ___________________________
+- Currently learning: **Cryptography** & **Advanced Car Engineering**
+- Goals:
+  1. Level up from basic cryptography to advanced
+  2. Decide whether to go straight into Cyber Security studies, or start at **IoT Devices** and build up from the programming layer
 
-## Let's Connect. in the future..
-- 🔗 [Portfolio]() -- potentially soon.
-- 🐦 [Twitter]() -- same thing 
+---
 
-________________________________________________________
+## What I'm Exploring
 
+```
+Cybersecurity  →  Cryptography  →  IoT  →  ???
+```
 
-<!--
-Here are some ideas to get you started:
+Still mapping the route — but that's half the fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Let's Connect *(coming soon)*
+
+- 🌐 Portfolio — *potentially soon*
+- 🐦 Twitter — *same thing*
+
+---

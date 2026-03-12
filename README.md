@@ -1,4 +1,4 @@
-whetherhetherhetherdvanceddvanced--
+--
 
 <div align="center">
 
@@ -35,9 +35,10 @@ I like to learn as I go and figure things out myself, not wanting to rely on oth
 
 ## Fun Facts!
 
-- Currently learning: **IoT architecture** & **Advanced Car Engineerincryptography Goals:
+- Currently learning: **IoT architecture** & **Advanced Car Engineering**
+- Goals:
   1. Level up from basic cryptography to advanced
-  2. Decide whether to go straight into Cyber Security studies, or start at **IoT Devices** and build up from the programming layer
+  2. Decide whether to go straight into CySecurityrity studies, or start at **IoT Devices** and build up from the programming layer
 
 ---
 

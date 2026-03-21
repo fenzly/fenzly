@@ -35,7 +35,7 @@ I like to learn as I go and figure things out myself, not wanting to rely on oth
 
 ## Fun Facts!
 
-- Currently learning: **IoT architecture** & **Advanced Car Engineering**
+- Currently learning: **IoT embedded devices & working with micro controller's**
 - Goals:
   1. Level up from basic cryptography to advanced
   2. Decide whether to go straight into CySecurityrity studies, or start at **IoT Devices** and build up from the programming layer
